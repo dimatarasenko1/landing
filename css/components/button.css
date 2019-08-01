@@ -1,0 +1,19 @@
+.btn-blue {
+  background-color: #345BE5;
+  color: white;
+  padding: 15px 25px 15px 15px;
+  border-radius: 5px;
+  border: 1px solid white;
+  transition: 0.3s;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  display: inline-block;
+}
+
+.btn-blue i {
+  font-size: 24px;
+  color: white;
+  background-color: #345BE5;
+  margin-right: 15px;
+  position: relative;
+  top: 2px;
+}
