@@ -1,0 +1,31 @@
+.list-inline {
+  list-style: none;
+  padding: 0;
+}
+
+.list-inline > li {
+  display: inline-block;
+  margin: 0 5px;
+}
+
+.icon-grey {
+  font-size: 50px;
+  color: rgb(200, 200, 200);
+}
+
+.icon-grey:hover {
+  font-size: 50px;
+  color: #345BE5;
+}
+
+.footer {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background-color: #1C1C24;
+}
+
+.footer p {
+  margin-left: 10px;
+  color: white;
+}
